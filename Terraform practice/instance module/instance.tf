@@ -1,5 +1,5 @@
 resource "google_compute_instance" "terraform" {
-  project      = "gdc-trng-get-01"
+  project      = var.project_id
   name         = "terraform"
   machine_type = "n1-standard-1"
   zone         = "us-central1-a"
