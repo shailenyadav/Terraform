@@ -1,4 +1,4 @@
-project_id = "gdc-trng-get-01"
+project_id = "please write your projrct name here"
 region     = "us-central1"
 zone       = "us-central1-a"
 subnet_data = {
